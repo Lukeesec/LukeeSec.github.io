@@ -258,8 +258,12 @@ a {
 
 
 
-body {
-  background-color: #2c3e50;
+
+a {
+  text-decoration: none;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 3;
 }
 
 p {
@@ -269,7 +273,7 @@ p {
   font-family: 'Lato';
 }
 
-sidebar {
+#sidebar {
   height: 250px;
   width: 10px;
   position: fixed;
