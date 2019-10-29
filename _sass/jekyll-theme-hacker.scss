@@ -235,9 +235,6 @@ hr {
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  text-decoration: none;
-  line-height: 3;
-  vertical-align: middle;
 }
 
 /* Clearfix */
@@ -253,91 +250,4 @@ a {
 
 .cf {
   zoom:1;
-}
-
-
-
-p {
-  color: white;
-  position: relative;
-  left: -10px;
-  font-family: 'Lato';
-}
-
-#sidebar {
-  height: 250px;
-  width: 10px;
-  position: fixed;
-  text-align: center;
-  padding: 10px;
-  margin-left: 10px;
-}
-
-p i {
-  left: 30px;
-  position: relative;
-  vertical-align: middle;
-  text-align: center;
-  font-size: 24px;
-}
-
-.social {
-  margin-left: -200px;
-  width: 230px;
-  padding: 0;
-  display: inline-table;
-  height: 0px;
-  background-color: rgba(128, 128, 128, 0.73);
-  -moz-transition-property: margin-left;
-  -moz-transition-duration: 0.2s;
-  -moz-transition-delay: 0.2s;
-  -ms-transition-property: margin-left;
-  -ms-transition-duration: 0.2s;
-  -ms-transition-delay: 0.2s;
-  -o-transition-property: margin-left;
-  -o-transition-duration: 0.2s;
-  -o-transition-delay: 0.2s;
-  -webkit-transition-property: margin-left;
-  -webkit-transition-duration: 0.2s;
-  -webkit-transition-delay: 0.2s;
-  box-shadow: 0px 0px 6px 0px #3E3D3D;
-  cursor: pointer;
-}
-
-.social:hover {
-  margin-left: -30px;
-  width: 230px;
-  background-color: #3b5998;
-}
-
-.facebook:hover {
-  background-color: #3b5998;
-}
-
-.twitter:hover {
-  background-color: #4099FF;
-}
-
-.google:hover {
-  background-color: #DD4B39;
-}
-
-.linkedin p i {
-  left: 20px;
-}
-
-.google p i {
-  left: 35px;
-}
-
-.youtube p i {
-  left: 18px;
-}
-
-.youtube:hover {
-  background-color: #E52D27;
-}
-
-.linkedin:hover {
-  background-color: #0976B4;
 }
