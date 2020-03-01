@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm 18 years old -- currently hacking on Hack The Box. My current rank on HTB is Guru, and as of December 2019, I was in the top 150 hackers on HTB.. (TODO)
+Removed due to being outdated -- will be updated shortly. 
 
 Twitter: <https://twitter.com/LukeeSec>  
 Linkedln: <https://www.linkedin.com/in/luke-martin-a84382181/>
